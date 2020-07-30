@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ThibaultWalterspieler/ThibaultWalterspieler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Thibault Walterspieler a passionate self-taught Fullstack dev in Paris 🥖
 
-Here are some ideas to get you started:
+- 🔭  I’m currently working at Turgot Capital & Blacksmith
+- 🌱  I’m currently learning React && Gridsome
+- 💼  Check my Linkedin profile [here](https://www.linkedin.com/in/thibault-walterspieler-84881716b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My stats 🧮
+
+[![Thibault's github stats](https://github-readme-stats.vercel.app/api?username=ThibaultWalterspieler&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## My socials 🏔
+<br/>
+<a href="https://twitter.com/ThibaultWalters">
+  <img align="left" alt="Thibault Walterspieler | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
