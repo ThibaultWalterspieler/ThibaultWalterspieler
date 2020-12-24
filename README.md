@@ -1,4 +1,4 @@
-### Hi there
+## Hi there
 
 I'm Thibault Walterspieler a passionate self-taught Fullstack dev in Paris 🥖
 
