@@ -2,7 +2,7 @@
 
 I'm Thibault Walterspieler a passionate self-taught Fullstack dev in Paris 🥖
 
-- 🔭  I’m currently working at Blacksmith Studio
+- 🔭  I’m currently working at Blacksmith && WeAreStudio99
 - 🌱  I’m currently learning GoLang
 - 💼  Check my Linkedin profile [here](https://www.linkedin.com/in/thibault-walterspieler-84881716b/)
 
