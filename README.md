@@ -10,4 +10,4 @@ You can also check my open-source works at [WeAreStudio99](https://github.com/We
 
 ## My stats 
 
-[![Thibault's github stats](https://github-readme-stats.vercel.app/api?username=ThibaultWalterspieler&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Thibault's github stats](https://github-readme-stats.vercel.app/api?username=ThibaultWalterspieler&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
