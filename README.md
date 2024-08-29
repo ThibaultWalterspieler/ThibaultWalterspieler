@@ -1,13 +1,8 @@
 ## Hi there
 
-I'm Thibault Walterspieler a passionate self-taught Fullstack dev in Paris 🥖
+I'm Thibault Walterspieler a passionate freelance fullstack dev in Lyon 🥖
 
-- 🔭  I’m currently working at MekaLabs (Mekaverse) && WeAreStudio99
-- 🌱  I’m currently learning GoLang
-- 💼  Check my Linkedin profile [here](https://www.linkedin.com/in/thibault-walterspieler-84881716b/)
+* My portfolio [walterspieler.dev](https://walterspieler.dev)
+* Linkedin profile [here](https://www.linkedin.com/in/thibault-walterspieler-84881716b/)
 
 You can also check my open-source works at [WeAreStudio99](https://github.com/WeAreStudio99) 
-
-## My stats 
-
-[![Thibault's github stats](https://github-readme-stats.vercel.app/api?username=ThibaultWalterspieler&count_private=true&show_icons=truetheme=transparent)](https://github.com/anuraghazra/github-readme-stats)
